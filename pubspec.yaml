@@ -65,6 +65,13 @@ flutter:
     - assets/images/logo_info.png
     - assets/images/group.png
     - assets/images/medicine.jpeg
+    - assets/images/panadol.jpg
+    - assets/images/vitamin.jpeg
+    - assets/images/free.jpg
+    - assets/images/rating.png
+    - assets/images/medi.jpeg
+    - assets/images/download.jpeg
+    - assets/images/Line.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

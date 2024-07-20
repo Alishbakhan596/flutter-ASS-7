@@ -24,11 +24,11 @@ class WalkThrough extends StatelessWidget {
               children: [
                 Text(
                   "View and Buy",
-                  style: TextStyle(fontWeight: FontWeight.bold),
+                  style: TextStyle(fontWeight: FontWeight.bold, fontSize: 25),
                 ),
                 Text(
                   "Medicine Online",
-                  style: TextStyle(fontWeight: FontWeight.bold),
+                  style: TextStyle(fontWeight: FontWeight.bold, fontSize: 25),
                 ),
                 Text("Etiam molis metus non purus"),
                 Text("faucibus sollicitudin.Pellentesque"),
